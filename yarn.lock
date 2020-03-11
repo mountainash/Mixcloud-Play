@@ -2044,7 +2044,7 @@ ejs@^3.0.1:
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-3.0.1.tgz#30c8f6ee9948502cc32e85c37a3f8b39b5a614a5"
   integrity sha512-cuIMtJwxvzumSAkqaaoGY/L6Fc/t6YvoP9/VIaK0V/CyqKLEQ8sqODmYfy/cjXEdZ9+OOL8TecbJu+1RsofGDw==
 
-electron-builder@^22.4.0:
+electron-builder@22.4.0:
   version "22.4.0"
   resolved "https://registry.yarnpkg.com/electron-builder/-/electron-builder-22.4.0.tgz#c2eedd0eb982e7421b96693252525cc15ba9e6e4"
   integrity sha512-6gmXgtkc3DHN+qqTdpFrE340BvzYOLrYQnvVX8Dpz+FLBIj6kg9eH4/MVDrqRjeW8F6DsIZ3jnlM91cWiE5r0g==
@@ -2098,7 +2098,7 @@ electron-to-chromium@^1.3.363:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.375.tgz#e290d59d316024e5499057944c10d05c518b7a24"
   integrity sha512-zmaFnYVBtfpF8bGRYxgPeVAlXB7N3On8rjBE2ROc6wOpTPpzRWaiHo6KkbJMvlH07CH33uks/TEb6kuMMn8q6A==
 
-electron@3:
+electron@3.1.13:
   version "3.1.13"
   resolved "https://registry.yarnpkg.com/electron/-/electron-3.1.13.tgz#aeb276f4cf5e3785078b6495e982ee46d553a5d2"
   integrity sha512-aRNywoUSO1Va/lpU4nz3K6GDyFqYtlOnHGLcERAAHfhB+IJrJ34cUJW4FVBpm43AwvUdAeuCkVKRLtOmrgx5CA==
