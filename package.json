@@ -65,7 +65,7 @@
 		"electron-builder": "20.44.4",
 		"rimraf": "2.7.1",
 		"webpack": "4.17.1",
-		"webpack-cli": "3.1.0"
+		"webpack-cli": "3.3.11"
 	},
 	"dependencies": {},
 	"postinstall": "electron-builder install-app-deps"
