@@ -64,7 +64,7 @@
 		"electron": "2.0.18",
 		"electron-builder": "20.44.4",
 		"rimraf": "2.7.1",
-		"webpack": "4.17.1",
+		"webpack": "4.42.0",
 		"webpack-cli": "3.1.0"
 	},
 	"dependencies": {},
