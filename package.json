@@ -41,8 +41,8 @@
 		"publish:draft": "EP_DRAFT=true npm run build"
 	},
 	"dependencies": {
-		"electron-config": "^2.0.0",
-		"electron-updater": "^4.2.5",
+		"electron-config": "2.0.0",
+		"electron-updater": "4.2.5",
 		"source-map-support": "0.5.16"
 	},
 	"devDependencies": {
