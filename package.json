@@ -43,7 +43,7 @@
 	},
 	"dependencies": {
 		"electron-config": "2.0.0",
-		"electron-updater": "4.2.5",
+		"electron-updater": "4.3.0",
 		"source-map-support": "0.5.16"
 	},
 	"devDependencies": {
