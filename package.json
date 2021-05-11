@@ -51,7 +51,7 @@
 	},
 	"devDependencies": {
 		"electron": "12.0.2",
-		"electron-builder": "22.10.5"
+		"electron-builder": "22.11.3"
 	},
 	"build": {
 		"appId": "com.codemotionapps.mixcloud",
