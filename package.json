@@ -50,7 +50,7 @@
 	},
 	"devDependencies": {
 		"electron": "21.2.0",
-		"electron-builder": "23.6.0"
+		"electron-builder": "24.0.0"
 	},
 	"build": {
 		"appId": "BSFV28T84F.com.mountainash.${name}",
