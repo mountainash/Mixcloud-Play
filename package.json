@@ -44,7 +44,7 @@
 	"dependencies": {
 		"electron-context-menu": "3.6.1",
 		"electron-store": "8.1.0",
-		"electron-updater": "6.1.4",
+		"electron-updater": "6.1.8",
 		"keytar": "7.9.0",
 		"notie": "4.3.1"
 	},
